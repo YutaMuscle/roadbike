@@ -135,6 +135,15 @@
 }
 
 @media screen and ( max-width:600px) {
+
+    .about-text {
+        margin: 0px 50px;
+    }
+
+    .about-text h3{
+        text-align: center;
+    }
+
     #bicycle ul {
         flex-direction: column;
     }
